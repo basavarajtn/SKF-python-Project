@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="67bfa1a2-31d9-4774-a641-8fb009e85dd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WjwfIMYeii8Vnomyf5syj9A0HW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Features/Steps/Scenario1.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/Features/Steps/Scenario1.py" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\basnitta\PycharmProjects\SKF_Project\Features\Steps" />
+      <recent name="C:\Users\basnitta\PycharmProjects\SKF_Project\Feature" />
+      <recent name="C:\Users\basnitta\PycharmProjects\SKF_Project" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\basnitta\PycharmProjects\SKF_Project\Features\drivers" />
+      <recent name="C:\Users\basnitta\PycharmProjects\SKF_Project\Features\Steps" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scenario1_bearingOptiontest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/log" is_save="true" />
+      <module name="SKF_Project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Feature/Steps" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Feature/Steps/Scenario1_bearingOptiontest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Scenario1_bearingOptiontest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67bfa1a2-31d9-4774-a641-8fb009e85dd0" name="Default Changelist" comment="" />
+      <created>1579676413647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579676413647</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-390" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581501962146">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-390" y="11" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581501962146" />
+    <state x="453" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579676706094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="453" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1579676706094" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1581499174615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1581499174615" />
+    <state x="198" y="112" key="FileChooserDialogImpl" timestamp="1581501955789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="198" y="112" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581501955789" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1579698093027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1579698093027" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1579698093027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1579698093027" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1579698093027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1579698093027" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1579698093027">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1579698093027" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1580207193299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580207193299" />
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1581421714555">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581421714555" />
+    <state x="231" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579770544971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="231" y="103" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1579770544971" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1579677192778">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1579677192778" />
+  </component>
+</project>
